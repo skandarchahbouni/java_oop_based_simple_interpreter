@@ -1,4 +1,4 @@
-# Java OOP Based Simple cli Interpreter 🚀
+# Java OOP Based Simple Interpreter: cli application 🚀
 
 ## Overview 🌟
 
